@@ -33,7 +33,7 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.rememberImagePainter
 
 class MainActivity : ComponentActivity() {
-    private val apiKey = "e31f9dcd519259af40e017cab72bfb7a"
+    private val apiKey = "e31f9dcd519259af40e017cab72bfb7a47"
     private lateinit var fusedLocationClient: FusedLocationProviderClient
     private lateinit var requestPermissionLauncher: ActivityResultLauncher<String>
 
