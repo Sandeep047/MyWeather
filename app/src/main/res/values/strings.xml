@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="enter_city">Enter city</string>
+    <string name="select_state">Select State</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="error_empty_input">Please enter both city and state.</string>
+    <string name="enter_country_code">US</string>
+    <string name="error_message">Please Select</string>
+</resources>
